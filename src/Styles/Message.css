@@ -1,0 +1,29 @@
+.message-conatiner {
+  background-color: #e3ecff;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+.message-vector {
+  background-color: #4c82ef;
+}
+.input {
+  position: relative;
+}
+
+.input-container {
+  position: relative;
+}
+
+.input-image {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.powered-by {
+  color: #b1b1b1;
+}
+.krunk-ai {
+  color: #7a7f8c;
+  font-weight: 500;
+}

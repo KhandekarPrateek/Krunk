@@ -5,6 +5,7 @@ import Chat from "./pages/Chat";
 import Tags from "./pages/Tags";
 import Bag from "./pages/Bag";
 import Filters from "./pages/Filters";
+import Message from "./pages/Message";
 function App() {
   return (
     <Container className="main-container border rounded-2 mt-3  bg-white">
@@ -13,6 +14,7 @@ function App() {
       <Tags />
       <Bag />
       <Filters />
+      <Message />
     </Container>
   );
 }
