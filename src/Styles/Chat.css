@@ -1,0 +1,10 @@
+.bot {
+  width: 18rem;
+  margin-top: 10px;
+  background-color: rgba(229, 238, 255, 1);
+}
+.human {
+  width: 18rem;
+  margin-top: 10px;
+  background-color: #dcf7c5;
+}

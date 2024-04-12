@@ -1,11 +1,13 @@
 import "./App.css";
-import { Row } from "reactstrap";
+import { Container, Row } from "reactstrap";
 import Header from "./pages/Header";
+import Chat from "./pages/Chat";
 function App() {
   return (
-    <Row className="main-container d-flex align-items-center justify-content-center">
+    <Container className="main-container border rounded-2 mt-3  bg-white">
       <Header />
-    </Row>
+      <Chat />
+    </Container>
   );
 }
 
