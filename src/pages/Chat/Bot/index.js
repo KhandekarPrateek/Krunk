@@ -5,7 +5,7 @@ const Bot = ({ text, Time }) => {
   return (
     <div>
       <Card className="bot ">
-        <CardBody className="rounded-5 ">
+        <CardBody>
           <CardText>{text}</CardText>
         </CardBody>
       </Card>

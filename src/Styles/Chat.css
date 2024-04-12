@@ -2,9 +2,11 @@
   width: 18rem;
   margin-top: 10px;
   background-color: rgba(229, 238, 255, 1);
+  border-radius: 25px;
 }
 .human {
   width: 18rem;
   margin-top: 10px;
   background-color: #dcf7c5;
+  border-radius: 25px;
 }

@@ -18,7 +18,7 @@ const Bag = () => {
     <Container>
       <Card className="card-bag p-2 ">
         <CardBody>
-          <Row className="bag-image-container p-4 ">
+          <Row className="bag-image-container p-4 mb-3">
             <Col
               className="d-flex align-items-center justify-content-center "
               sm={3}

@@ -1,11 +1,34 @@
 .main-container {
   background-color: #eff3fd;
-  /* height: 100vh; */
   width: 30vw;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
 }
 .text-color {
   color: #4c82ef;
 }
 .header-container {
   background-color: #eff3fd;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.timpu-header {
+  font-weight: 600;
+  font-size: x-large;
+}
+.position-relative {
+  position: relative;
+}
+.robot-icon {
+  position: relative;
+}
+.dot-icon {
+  position: absolute;
+  bottom: 3px;
+  left: 35px;
+}
+.dot-icon.online {
+  position: absolute;
+  bottom: 0;
+  left: -20px; /* Adjust as needed */
 }
