@@ -1,0 +1,33 @@
+.tags-small-title {
+  color: rgba(148, 148, 148, 1);
+}
+.badge-tags {
+  color: #4c82ef;
+  height: 40px;
+  background-color: #eff3fd !important;
+  font-size: large;
+  font-weight: 400;
+  border-color: #4c82ef !important;
+}
+.slick-prev:before {
+  display: none;
+}
+
+.slider .slick-arrow {
+  position: absolute;
+  top: 50%;
+
+  z-index: 10;
+  font-size: 0;
+  width: 30px;
+  height: 30px;
+}
+
+.slider .slick-arrow.slick-next {
+  right: 0;
+
+  background-color: #4c82ef;
+}
+.slider .slick-arrow.slick-disabled {
+  opacity: 0.2;
+}

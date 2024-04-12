@@ -8,7 +8,8 @@ const Header = () => {
       <Col sm={1}>
         <img src={RobotsIcon} />
       </Col>
-      <Col sm={11}>
+      <Col sm={1}></Col>
+      <Col sm={10}>
         <Row className="g-0">
           <div className="d-flex justify-content-start  text-color">Timpu</div>
           {/* <img src={Arrow}  /> */}
