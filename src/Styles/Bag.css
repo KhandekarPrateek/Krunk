@@ -1,0 +1,14 @@
+.card-bag {
+  background-color: #eff3fd !important;
+  border: none;
+  width: 25rem;
+  border-radius: 22px;
+}
+.bag-image-container {
+  background-color: white;
+  border-radius: 22px;
+}
+.vector-image {
+  height: 20px;
+  width: 40px;
+}
